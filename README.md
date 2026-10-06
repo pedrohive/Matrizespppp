@@ -13,7 +13,7 @@
 Este projeto implementa o produto entre duas matrizes, **A** (de dimensão *m × n*) e **B** (de dimensão *n × p*), resultando em uma matriz **C** de dimensão *m × p*.
 
 ---
-## ⚙️ Funcionamento
+## Funcionamento
 
 O programa realiza as seguintes etapas:
 
@@ -23,7 +23,7 @@ O programa realiza as seguintes etapas:
 4. Exibe a matriz resultante no console.
 
 ---
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 | Tecnologia | Finalidade |
 |---|---|
