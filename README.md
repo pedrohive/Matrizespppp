@@ -44,4 +44,5 @@ O programa realiza as seguintes etapas:
 Estudante de Ciência da Computação — UNISUL
 
 [![GitHub](https://img.shields.io/badge/GitHub-pedrohive-181717?logo=github)](https://github.com/pedrohive)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Pedro-0A66C2?logo=linkedin)](https://www.linkedin.com/in/joao-pedro-dos-santos-souza)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Pedro-0A66C2?logo=linkedin)](https://www.linkedin.com/in/joao-pedro-dos-santos-souza) 
+
